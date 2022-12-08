@@ -6,7 +6,7 @@
 🔸Email- athulya.m045@gmail.com
 🔸LinkedIn- https://www.linkedin.com/in/athulyam04/
 
-Feel free to contact me on anything tech-related, always open to a conversation!
+Always open to a conversation on anything tech-related!
 
 
 <!---
