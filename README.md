@@ -1,4 +1,4 @@
-👋 Hey there, I’m Athulya!
+👋 Hi, I’m Athulya!
 
 - I’m interested in Natural Language Processing and Data Science.
 - I’m currently learning Rust, Kotlin and related languages. 
